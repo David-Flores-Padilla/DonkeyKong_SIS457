@@ -1,0 +1,17 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UE4Editor-DonkeyKong_SlS457.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"C:\Users\ASUS\Documents\Unreal Projects\DonkeyKong_SlS457\Intermediate\Build\Win64\DonkeyKong_SlS457Editor\Development\Engine\SharedPCH.Engine.ShadowErrors.h.obj"
+"C:\Users\ASUS\Documents\Unreal Projects\DonkeyKong_SlS457\Intermediate\Build\Win64\UE4Editor\Development\DonkeyKong_SlS457\DonkeyKong_SlS457.cpp.obj"
+"C:\Users\ASUS\Documents\Unreal Projects\DonkeyKong_SlS457\Intermediate\Build\Win64\UE4Editor\Development\DonkeyKong_SlS457\DonkeyKong_SlS457Character.cpp.obj"
+"C:\Users\ASUS\Documents\Unreal Projects\DonkeyKong_SlS457\Intermediate\Build\Win64\UE4Editor\Development\DonkeyKong_SlS457\DonkeyKong_SlS457GameMode.cpp.obj"
+"C:\Users\ASUS\Documents\Unreal Projects\DonkeyKong_SlS457\Intermediate\Build\Win64\UE4Editor\Development\DonkeyKong_SlS457\DonkeyKong_SlS457.init.gen.cpp.obj"
+"C:\Users\ASUS\Documents\Unreal Projects\DonkeyKong_SlS457\Intermediate\Build\Win64\UE4Editor\Development\DonkeyKong_SlS457\DonkeyKong_SlS457Character.gen.cpp.obj"
+"C:\Users\ASUS\Documents\Unreal Projects\DonkeyKong_SlS457\Intermediate\Build\Win64\UE4Editor\Development\DonkeyKong_SlS457\DonkeyKong_SlS457GameMode.gen.cpp.obj"
+"C:\Users\ASUS\Documents\Unreal Projects\DonkeyKong_SlS457\Intermediate\Build\Win64\UE4Editor\Development\DonkeyKong_SlS457\Default.rc2.res"
+/OUT:"C:\Users\ASUS\Documents\Unreal Projects\DonkeyKong_SlS457\Intermediate\Build\Win64\UE4Editor\Development\DonkeyKong_SlS457\UE4Editor-DonkeyKong_SlS457.lib"

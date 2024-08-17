@@ -1,0 +1,14 @@
+{
+	"Targets": [
+		{
+			"Name": "DonkeyKong_SlS457",
+			"Path": "C:\\Users\\ASUS\\Documents\\Unreal Projects\\DonkeyKong_SlS457\\Source\\DonkeyKong_SlS457.Target.cs",
+			"Type": "Game"
+		},
+		{
+			"Name": "DonkeyKong_SlS457Editor",
+			"Path": "C:\\Users\\ASUS\\Documents\\Unreal Projects\\DonkeyKong_SlS457\\Source\\DonkeyKong_SlS457Editor.Target.cs",
+			"Type": "Editor"
+		}
+	]
+}
